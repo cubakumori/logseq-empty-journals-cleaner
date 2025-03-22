@@ -1,0 +1,1 @@
+# logseq-empty-journals-cleaner
